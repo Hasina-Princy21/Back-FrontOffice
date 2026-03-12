@@ -4,8 +4,8 @@ import com.hasinaFramework.annotation.GetMapping;
 
 @Controller
 public class HomeController {
-    @GetMapping("/wel")
+    @GetMapping("/")
     public String home(){
-        return "Welcome!";
+        return "Welcome to the framework!";
     }    
 }
