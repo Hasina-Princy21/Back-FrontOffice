@@ -1,1 +1,4 @@
+com/Framework/model/Vehicule.class
+com/Framework/connection/Con.class
+com/Framework/model/Carburant.class
 com/Framework/controller/HomeController.class
